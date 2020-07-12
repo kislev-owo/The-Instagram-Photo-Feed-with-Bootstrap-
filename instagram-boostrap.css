@@ -1,0 +1,72 @@
+body{
+	background-color: white;}
+header{
+	background-color: #D5CCCC;
+	height: 40px ;}
+	
+a1{										/*a1 trabajo con la posicion del icono instagram */		
+	margin-left: 130px;
+	margin-top: 4px;
+	height: 0px;}	
+.fab{									/*.fab trabajo con el tamaño del icono instagram */
+	color:gray;					
+	font-size: 32px;
+	width: 30px;
+	background-color: #D5CCCC;}
+a4{									/*.tamaño letra y posicion de Instagram */
+		color:gray;					
+		font-size: 32px;
+		width: 170px;
+		height: 40px;
+		font-family: 'Galada', cursive;
+		background-color:#D5CCCC;}
+		
+button{									/* controlo el margen y posicion del boton verde */
+	background: #D5CCCC;
+	margin-left: 650px;
+	margin-top: 2px;
+	margin-bottom: 6px;}
+.btn{									/*boton verde (create new post)*/
+	background-color: green;
+	border-color: green;
+	font-size: 15px;
+	height: 32px;}
+.btn1 {									/*boton gris (cancel)*/
+	background-color: gray;
+	border-color: gray;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 32px;
+	border-right-color: white;
+	border-bottom-color: white;}
+a2{										/*tamaño y posicion de gear (icono engranaje)*/					
+	margin-right: 120px;              
+	margin-top: -4px;
+	font-size: 20px;
+	height: 44px;
+	color:#7C7575;
+    background-color: #D5CCCC;}
+    
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link { /*color de gear*/
+        color: #fff;
+        background-color: #7C7575;}
+
+div.mx-auto{margin-bottom: -13px; margin-top: 3px;}   /*margen de tab(Nav bar) con la publicacion abajo */
+
+a#pills-home-tab.nav-link.active{background-color: gray; color: white;}   /*icono tab izquierda cambio de color y fondo*/
+a#pills-home-tab.nav-link{color:gray;}										/*INSPECCIONANDOOOOOOOOOOOOOOOOOOOOOOOOOOOOO*/
+
+a#pills-profile-tab.nav-link.active{background-color: gray; color:white;}	/*icono tab derecha cambio de color y fondo*/
+a#pills-profile-tab.nav-link{color:gray;}
+
+img.card-img-top{width: 444px; height: 170px; padding:1px;} 	/*Primera pantalla tamaño de las imagenes*/
+
+.pagcompleta{background-color: #D5CCCC;}		 /*Segunda pantalla tamaño de imagenes y cuerpo*/	
+.card{background-color: #D5CCCC;padding-top:20px;border:0px;height: 635px;}
+.card-body{background-color: white;margin:auto;padding:5px;width:580px; font-family: 'Acme', sans-serif;}
+.card-title{font-size: 23px; font-family: 'Acme', sans-serif;}
+.container{font-size: 16px;}
+.card-body img{width: 570px; height: 370px;}
+
+
+
